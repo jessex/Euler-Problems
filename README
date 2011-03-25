@@ -1,0 +1,29 @@
+DESCRIPTION
+
+These are my solutions to the problems at Project Euler, written entirely in 
+Scala.
+
+As the project describes itself, "Project Euler is a series of challenging 
+mathematical/computer programming problems that will require more than just 
+mathematical insights to solve. Although mathematics will help you arrive at 
+elegant and efficient methods, the use of a computer and programming skills will 
+be required to solve most problems." I decided to work on them for a) fun, b) a
+challenge and c) to learn more Scala.
+
+My goal with each was to write a simple script for each problem which would 
+output the answer and only the answer. Some of the solutions are somewhat of the 
+brute force variety, but most are a genuine attempt at a clever and efficient 
+solution.
+
+INSTRUCTIONS
+
+Simply pick a Scala file and run:
+
+$ scala EulerProblem[xyz].scala
+
+where [xyz] refers to the 3-digit suffix on the file name. That's it.
+
+
+
+For more information on Project Euler, please visit http://projecteuler.net/
+
